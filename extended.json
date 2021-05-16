@@ -1,5 +1,4 @@
-{
-    "info": {
+      "info": {
         "url_png_icon_64x64": "https://github.com/gibonada/meta/blob/main/gibon_icon.png",
         "url_png_logo": "https://github.com/gibonada/meta/blob/main/gibon_logo.png",
         "location": "Prague, Czech Republic",
@@ -27,10 +26,10 @@
         }
     },
     "my-pool-ids": {
-        "0": "b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce"
+        "0": "b352315bd54d61dfcd8fd78a2aa4f3e0cc8ef342b9495465b0b0b2ce",
+        "1": ""
     },
     "when-satured-then-recommend": {
         "0": "550f5dc96814537404c7544175d348262699e448d74005dfa26540d3",
         "1": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
     }
-}
